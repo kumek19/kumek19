@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kumek19
-- 👀 I’m interested in bioinformatics and julia.
+- 👀 I’m interested in bioinformatics and genetics.
 - 🌱 I’m currently learning julia and machine learning.
 
 <!---
